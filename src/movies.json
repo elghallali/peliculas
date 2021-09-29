@@ -1,0 +1,123 @@
+[
+    {
+        "title":"oblivion (2012)",
+        "classification":"8.1",
+        "actors":"Robert Downey Jr., Chris Evans, Chris Hemsworth", 
+        "director":"Joss Whedon",
+        "date":"1 May 2015",
+        "duration":"2h 21min",
+        "img":"images/uploads/mv1.jpg",
+        "description":"Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+    },
+    {
+        "title":"into the wild (2014)",
+        "classification":"7.8",
+        "actors":"Chris Evans, Samuel L. Jackson, Scarlett Johansson", 
+        "director":"Anthony Russo, Joe Russo",
+        "date":"1 May 2015",
+        "duration":"2h 21min",
+        "img":"images/uploads/mv2.jpg",
+        "description":"As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+    },
+    {
+        "title":"BLADE RUNNER (2015)",
+        "classification":"7.3",
+        "actors":"Paul Rudd, Michael Douglas", 
+        "director":"Peyton Reed",
+        "date":"1 May 2015",
+        "duration":"2h 21min",
+        "img":"images/uploads/mv3.jpg",
+        "description":"Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+    },
+    {
+        "title":"into the wild (2014)",
+        "classification":"7.8",
+        "actors":"Robert Downey Jr., Guy Pearce, Don Cheadle", 
+        "director":"Shane Black",
+        "date":"1 May 2015",
+        "duration":"2h 21min",
+        "img":"images/uploads/mv4.jpg",
+        "description":"When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+    },
+    {
+        "title":"skyfall: evil of boss (2013)",
+        "classification":"7.0",
+        "actors":"Chris Hemsworth, Natalie Portman, Tom Hiddleston", 
+        "director":"Alan Taylor",
+        "date":"1 May 2015",
+        "duration":"2h 21min",
+        "img":"images/uploads/mv5.jpg",
+        "description":"When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+    },
+    {
+        "title":"oblivion (2012)",
+        "classification":"8.1",
+        "actors":"Robert Downey Jr., Chris Evans, Chris Hemsworth", 
+        "director":"Joss Whedon",
+        "date":"1 May 2015",
+        "duration":"2h 21min",
+        "img":"images/uploads/mv1.jpg",
+        "description":"Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+    },
+    {
+        "title":"into the wild (2014)",
+        "classification":"7.8",
+        "actors":"Chris Evans, Samuel L. Jackson, Scarlett Johansson", 
+        "director":"Anthony Russo, Joe Russo",
+        "date":"1 May 2015",
+        "duration":"2h 21min",
+        "img":"images/uploads/mv2.jpg",
+        "description":"As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+    },
+    {
+        "title":"BLADE RUNNER (2015)",
+        "classification":"7.3",
+        "actors":"Paul Rudd, Michael Douglas", 
+        "director":"Peyton Reed",
+        "date":"1 May 2015",
+        "duration":"2h 21min",
+        "img":"images/uploads/mv3.jpg",
+        "description":"Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+    },
+    {
+        "title":"into the wild (2014)",
+        "classification":"7.8",
+        "actors":"Robert Downey Jr., Guy Pearce, Don Cheadle", 
+        "director":"Shane Black",
+        "date":"1 May 2015",
+        "duration":"2h 21min",
+        "img":"images/uploads/mv4.jpg",
+        "description":"When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+    },
+    {
+        "title":"skyfall: evil of boss (2013)",
+        "classification":"7.0",
+        "actors":"Chris Hemsworth, Natalie Portman, Tom Hiddleston", 
+        "director":"Alan Taylor",
+        "date":"1 May 2015",
+        "duration":"2h 21min",
+        "img":"images/uploads/mv5.jpg",
+        "description":"When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+    },
+    {
+        "title":"BLADE RUNNER (2015)",
+        "classification":"7.3",
+        "actors":"Paul Rudd, Michael Douglas", 
+        "director":"Peyton Reed",
+        "date":"1 May 2015",
+        "duration":"2h 21min",
+        "img":"images/uploads/mv3.jpg",
+        "description":"Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+    },
+    {
+        "title":"into the wild (2014)",
+        "classification":"7.8",
+        "actors":"Robert Downey Jr., Guy Pearce, Don Cheadle", 
+        "director":"Shane Black",
+        "date":"1 May 2015",
+        "duration":"2h 21min",
+        "img":"images/uploads/mv4.jpg",
+        "description":"When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+    }
+    
+]
